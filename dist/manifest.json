@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Play & Earn - Kiếm Tiền Game & Giải Trí",
+  "short_name": "Play&Earn",
+  "description": "Ứng dụng kiếm tiền thưởng qua trò chơi X/O và quảng cáo minh bạch 90/10, rút ví MoMo & ZaloPay, package com.playearn.rewardapp.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d16",
+  "theme_color": "#10b981",
+  "categories": ["games", "entertainment", "finance"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
